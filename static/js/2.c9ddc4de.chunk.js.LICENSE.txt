@@ -41,6 +41,14 @@ object-assign
  * Licensed under MIT
  */
 
+/*!
+* metismenu https://github.com/onokumus/metismenu#readme
+* A jQuery menu plugin
+* @version 3.0.6
+* @author Osman Nuri Okumus <onokumus@gmail.com> (https://github.com/onokumus)
+* @license: MIT 
+*/
+
 /*! DataTables 1.10.22
  * ©2008-2020 SpryMedia Ltd - datatables.net/license
  */
